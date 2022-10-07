@@ -1,3 +1,5 @@
+![chegg_solutions](https://creativesavantz.com/wp-content/uploads/2015/12/chegg-3.png)
+
 # Solutions to Chegg Homework Problems
 
  ### Description
