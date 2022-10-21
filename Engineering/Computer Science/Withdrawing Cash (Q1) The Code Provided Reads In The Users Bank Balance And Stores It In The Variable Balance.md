@@ -66,6 +66,7 @@ public class Withdraw {
 ```
 
 Attaching the output of the program :
+
 ![image](https://user-images.githubusercontent.com/78461084/197188622-d5541e2e-869f-4252-a6d9-2ec3b335a9d9.png)
 
 ### Give this Project a Star :star:
